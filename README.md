@@ -39,7 +39,7 @@ Registration Number : 212224220107
 ### MainActivity.java
 
 ```java
-package com.example.demo;
+package com.example.implicit;
 
 import android.os.Bundle;
 
@@ -142,11 +142,15 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT
-<img width="1920" height="1020" alt="Screenshot 2026-10-27 062015" src="https://github.com/user-attachments/assets/aefbe58d-598a-4f3d-bafd-5d9e01646e19" />
+
+<img width="1712" height="1060" alt="Screenshot 2026-11-05 104844" src="https://github.com/user-attachments/assets/86db424b-7213-411a-a161-b54650c9cf02" />
 <br>
-<img width="1920" height="1020" alt="Screenshot 2026-10-27 062353" src="https://github.com/user-attachments/assets/24af9b45-543c-4a3e-b605-85911419dc41" />
+<img width="1191" height="1037" alt="Screenshot 2026-11-05 220617" src="https://github.com/user-attachments/assets/b129c96b-d320-442f-9d4e-9e0ee282d42d" />
 <br>
-<img width="1920" height="1020" alt="Screenshot 2026-10-27 062643" src="https://github.com/user-attachments/assets/37763898-0525-47b6-8fda-f9db295fc36e" />
+<img width="1102" height="987" alt="Screenshot 2026-11-05 220717" src="https://github.com/user-attachments/assets/fbb595ad-3f6b-4449-9378-5b9f9e7cb827" />
+<br>
+<img width="1705" height="1053" alt="Screenshot 2026-11-05 220805" src="https://github.com/user-attachments/assets/41512395-2acf-4230-b1ad-3a0e48cd3d03" />
+
 
 ## RESULT
 Thus a Simple Android Application create a navigate button using Implicit Intent to display the gmail page using Android Studio is developed and executed successfully.
